@@ -7,8 +7,18 @@ Ruby on Rails, or simply Rails, is a web application framework written in Ruby u
 Django : <br />
 Django is a free and open-source web framework, written in Python, which follows the model–view–controller (MVC) architectural pattern.It is maintained by the Django Software Foundation (DSF), an independent organization established as a non-profit.
 
-Django Front-end : Developer use Jquery , CSS , ReactJS , etc <br />
-Rails  Back-end  : Developer use model  , controller , save , delete , insert , edit , etc 
+Django Front-end : Developer use django for call restful api rails show to users,also control data with Jquery , CSS , ReactJS , etc <br />
+Rails  Back-end  : Developer use model  , controller(save , delete , insert , edit) with Rest-API(gem install rest-api) 
+
+### Restful: <br />
+
+Much like Web Services, a REST service is:
+
+Platform-independent (you don't care if the server is Unix, the client is a Mac, or anything else),
+Language-independent (C# can talk to Java, etc.), <br />
+Standards-based (runs on top of HTTP), and <br />
+Can easily be used in the presence of firewalls. <br />
+
 
 
 ## Setup (Django and Rails)
