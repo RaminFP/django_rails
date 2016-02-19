@@ -19,6 +19,12 @@ Language-independent (C# can talk to Java, etc.), <br />
 Standards-based (runs on top of HTTP), and <br />
 Can easily be used in the presence of firewalls. <br />
 
+### What is Rest : <br />
+
+REST stands for Representational State Transfer. (It is sometimes spelled "ReST".) It relies on a stateless, client-server, cacheable communications protocol -- and in virtually all cases, the HTTP protocol is used.
+
+REST is an architecture style for designing networked applications. The idea is that, rather than using complex mechanisms such as CORBA, RPC or SOAP to connect between machines, simple HTTP is used to make calls between machines.
+
 
 
 ## Setup (Django and Rails)
