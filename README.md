@@ -7,7 +7,7 @@ Ruby on Rails, or simply Rails, is a web application framework written in Ruby u
 Django : <br />
 Django is a free and open-source web framework, written in Python, which follows the model–view–controller (MVC) architectural pattern.It is maintained by the Django Software Foundation (DSF), an independent organization established as a non-profit.
 
-Django Front-end : Developer use Jquery , CSS , AReactJS , etc <br />
+Django Front-end : Developer use Jquery , CSS , ReactJS , etc <br />
 Rails  Back-end  : Developer use model  , controller , save , delete , insert , edit , etc 
 
 
