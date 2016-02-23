@@ -86,6 +86,7 @@ def delete(request,id):
 
 def edit(request,id):
 
+   try:	
         getEditID = id
         firstname = "ali"
         lastname = "mahdavi"
@@ -101,5 +102,7 @@ def edit(request,id):
         r = http.request('GET', url_rails)
         b = io.BufferedReader(r, 2048)
         return HttpResponse("Edit User Seccuefully")
+   except Exception as e:
 
+        return HttpResponse("Error %s " % e)
 
