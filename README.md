@@ -30,7 +30,7 @@ REST is an architecture style for designing networked applications. The idea is 
 ## Setup (Django and Rails)
 
 ```shell
-pip install django==1.9.2
+pip install django==1.9.5
 ```
 
 ```shell
